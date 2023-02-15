@@ -19,6 +19,8 @@ const nextConfig = {
       '18.141.64.26',
       '127.0.0.1',
       'localhost',
+      'ecommerce.local',
+      'api.funune.com',
       'picsum.photos',
       'pickbazar-sail.test',
       'pickbazarlaravel.s3.ap-southeast-1.amazonaws.com',
