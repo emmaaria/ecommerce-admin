@@ -17,6 +17,7 @@
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectId" id="2LlM1iQ3iP34ZSi5IjwrTaclpL1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -54,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676441002386</updated>
       <workItem from="1676441003427" duration="5792000" />
-      <workItem from="1676452734221" duration="3196000" />
+      <workItem from="1676452734221" duration="3514000" />
     </task>
     <task id="LOCAL-00001" summary="New">
       <created>1676444651958</created>
@@ -63,7 +64,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676444651958</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="New">
+      <created>1676459362193</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676459362193</updated>
+    </task>
+    <task id="LOCAL-00003" summary="New">
+      <created>1676459387144</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676459387144</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
